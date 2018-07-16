@@ -10,4 +10,4 @@ class Startup {
     }
 }
 Startup.main();
-//# sourceMappingURL=HelloWorld.js.map
+//# sourceMappingURL=App.js.map
