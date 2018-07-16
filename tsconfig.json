@@ -1,8 +1,8 @@
 {
     "compilerOptions": {
         "target": "es6",
-        "module": "amd",
-        "outFile": "./built/main.js",
+        "module": "commonjs",
+        "outDir": "./built/",
         "sourceMap": true
     },
     "include": [
