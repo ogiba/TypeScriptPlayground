@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "amd",
+        "outFile": "./built/main.js",
+        "sourceMap": true
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
